@@ -1,6 +1,7 @@
+
 body {
     font-size: 'Roboto';
-    color: #FFFFFF
+    background-color: #ffffff;
 }
 
 /* header */
@@ -32,8 +33,9 @@ font-family: 'Raleway';
 
 }
 
-/* .header-list {
-} */
+.header-list {
+    list-style: none;
+} 
 
 /* .header-item {
     
@@ -64,7 +66,7 @@ font-family: 'Raleway';
 
 /* hero */
 .hero {
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .hero-titel {
@@ -73,6 +75,7 @@ font-family: 'Raleway';
         line-height: 1.2;
         text-align: center;
         letter-spacing: 0.02em;
+        color: #ffffff;
 }
 
 .hero-button {
@@ -91,8 +94,9 @@ font-family: 'Raleway';
 /* .aside-titel {
 } */
 
-/* .aside-list {
-} */
+.aside-list {
+    list-style: none;
+} 
 
 /* .aside-item {
 } */
@@ -115,8 +119,9 @@ font-family: 'Raleway';
 
 /* .section-work {} */
 
-/* .section-work-list{
-} */
+.section-work-list{
+    list-style: none;
+}
 
 /* .section-work-titel {} */
 
@@ -125,7 +130,7 @@ font-family: 'Raleway';
 /* Our Team */
 
 .section-team {
-    background: #F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .section-team-titel {
@@ -138,8 +143,9 @@ font-family: 'Raleway';
         color: #2E2F42;
 }
 
-/* .section-team-list {
-} */
+.section-team-list {
+    list-style: none;
+}
 
 /* .section-team-item {
 
@@ -206,14 +212,15 @@ font-family: 'Raleway';
 
 /* filters */
 
-.section-filters {
-}
-.section-filters-titel {
-}
+/* .section-filters {
+} */
+/* .section-filters-titel {
+} */
 .section-filters-list {
+    list-style: none;
 }
-.section-filters-item {
-}
+/* .section-filters-item {
+} */
 .section-filters-button {
         font-weight: 500;
         font-size: 16px;
@@ -227,15 +234,17 @@ font-family: 'Raleway';
 
 /* portfolio */
 
-.section-portfolio {}
+/* .section-portfolio {} */
 
-.section-portfolio-titel {}
+/* .section-portfolio-titel {} */
 
-.section-portfolio-list {}
+.section-portfolio-list {
+    list-style: none;
+}
 
-.section-portfolio-item {}
+/* .section-portfolio-item {} */
 
-.section-portfolio-img {}
+/* .section-portfolio-img {} */
 
 .section-portfolio-subtitel {
         font-weight: 500;
