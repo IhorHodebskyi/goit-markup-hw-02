@@ -1,0 +1,258 @@
+body {
+    font-size: 'Roboto';
+    color: #FFFFFF
+}
+
+/* header */
+
+/* .header-navigation {} */
+
+.header-logo {
+font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
+.hedelr-logo-web {
+    font-family: 'Raleway';
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.33;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+
+}
+
+/* .header-list {
+} */
+
+/* .header-item {
+    
+} */
+
+.header-link {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.header-mail {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.header-tel {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* main */
+
+/* hero */
+.hero {
+    background: #2E2F42;
+}
+
+.hero-titel {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.2;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+}
+
+.hero-button {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.33;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+}
+
+/* benefits */
+/* .aside {
+} */
+
+/* .aside-titel {
+} */
+
+/* .aside-list {
+} */
+
+/* .aside-item {
+} */
+
+.aside-subtitel {font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.aside-text {
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* What are we doing */
+
+/* .section-work {} */
+
+/* .section-work-list{
+} */
+
+/* .section-work-titel {} */
+
+/* .section-work-img {} */
+
+/* Our Team */
+
+.section-team {
+    background: #F4F4FD;
+}
+
+.section-team-titel {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+
+/* .section-team-list {
+} */
+
+/* .section-team-item {
+
+} */
+
+/* .section-team-img {} */
+
+.section-team-subtitel {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.section-team-text {
+        font-size: 16px;
+        line-height: 1.5;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* footer */
+
+.footer {
+    width: 1440px;
+        height: 310px;
+        left: 0px;
+        top: 2280px;
+        background: #2E2F42;
+}
+
+.footer-logo {font-family: 'Raleway';
+font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.16;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}
+
+.footer-logo-web { 
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.16;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #E7E9FC;
+}
+
+/* filters */
+
+.section-filters {
+}
+.section-filters-titel {
+}
+.section-filters-list {
+}
+.section-filters-item {
+}
+.section-filters-button {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+}
+
+/* portfolio */
+
+.section-portfolio {}
+
+.section-portfolio-titel {}
+
+.section-portfolio-list {}
+
+.section-portfolio-item {}
+
+.section-portfolio-img {}
+
+.section-portfolio-subtitel {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.section-portfolio-text {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+
+}
